@@ -13,6 +13,6 @@
 	<li>Likes: Playing</li>
 </ul>
 <h2>blog : </h2>
-<img src="https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf&postId=&theme=default">
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf&postId=&theme=default)](https://smcmfmf.tistory.com)
 </body>
 </html>
