@@ -6,6 +6,10 @@
 	<img src="https://simpleicons.org/icons/aseprite.svg" alt="img" width="50" height="50">
 </head>
 <body>
-	<h3>안녕!!!</h3>
+<ul>
+	<li>Age : 18</li>
+	<li>Job: College student</li>
+	<li>Likes: Playing</li>
+</ul>
 </body>
 </html>
