@@ -8,8 +8,11 @@
 <body>
 <ul>
 	<li>Age : 18</li>
+	<li>country : Republic of Korea</li>
 	<li>Job: College student</li>
 	<li>Likes: Playing</li>
 </ul>
+<h2>blog : </h2>
+<img src="https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf&postId=&theme=default">
 </body>
 </html>
