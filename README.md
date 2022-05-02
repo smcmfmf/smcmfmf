@@ -8,7 +8,7 @@
 <body>
 <ul>
 	<li>Age : 18</li>
-	<li>country : Republic of Korea</li>
+	<li>Country : Republic of Korea</li>
 	<li>Job: College student</li>
 	<li>Likes: Playing</li>
 </ul>
