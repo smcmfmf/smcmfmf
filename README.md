@@ -6,6 +6,7 @@
 	<li>Job: College student</li>
 	<li>Likes: Playing</li>
 </ul>
+
 <h2>Blog : </h2>
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf%20%20&postId=&theme=default)](https://smcmfmf.tistory.com)
@@ -16,3 +17,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+<h2>Contact</h2>
+
+![email](https://img.shields.io/badge/-hk0831bae%40gmail.com-blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmcmfmf&count_bg=%230D008E&title_bg=%239FFF00&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
