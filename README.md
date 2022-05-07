@@ -9,7 +9,7 @@
 
 <h2>Blog : </h2>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf%20%20&postId=&theme=default)](https://smcmfmf.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=smcmfmf%20%20&postId=&theme=default)](https://smcmfmf.tistory.com/2)
 
 <h2>Studying : </h2>
 
