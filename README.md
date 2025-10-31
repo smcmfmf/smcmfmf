@@ -1,7 +1,6 @@
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20141018_122%2Fsmartkeiji_1413619433220sSh78_GIF%2Ftumblr_static_tumblr_inline_mqbi1h9k9l1qz4rgp.gif&type=sc960_832_gif" width="160px" height="160px">
 
 <ul>
-	<li>Age : 22</li>
 	<li>Country : Republic of Korea</li>
 	<li>Job: College student</li>
 	<li>Likes: Playing</li>
