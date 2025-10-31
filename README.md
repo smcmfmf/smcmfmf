@@ -20,4 +20,3 @@
 <h2>Contact</h2>
 
 ![email](https://img.shields.io/badge/-hk0831bae%40gmail.com-%2379ABFF?style=for-the-badge&logo=Gmail)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmcmfmf&count_bg=%230D008E&title_bg=%239FFF00&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
